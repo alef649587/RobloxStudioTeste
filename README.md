@@ -1,2 +1,2 @@
 # RobloxStudioTeste
-Repositório pra mandar scripts de feitos pelo ChatGPT
+Repositório criado pra mandar scripts de feitos pelo ChatGPT
